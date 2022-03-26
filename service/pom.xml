@@ -403,7 +403,7 @@
     <dependency>
       <groupId>com.amazonaws</groupId>
       <artifactId>DynamoDBLocal</artifactId>
-      <version>1.13.6</version>
+      <version>1.18.0</version>
       <scope>test</scope>
       <exclusions>
         <exclusion>
